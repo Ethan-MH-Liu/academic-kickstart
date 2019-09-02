@@ -33,7 +33,8 @@ date_format = "Jan 2006"
   title = "the 2nd China College Student 'Internet+' Innovation & Entrepreneurship Competition"
   url = "https://cy.ncss.org.cn"
   certificate_grade = "Sliver"
- 
-   description = "Works: 'Day Day +'—— Smart Card management based on China commercial bank."
+  description = """
+  Works: 'Day Day +'—— Smart Card management based on China commercial bank.
+  """
   
 +++

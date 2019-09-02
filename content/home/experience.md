@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-01-08"
   description = """
-  - Tested and fixed Java server related functions: signal connection, automatic closing appliance, weak password test and data log, etc
+  - Tested and fixed Java server related functions: signal connection, automatic closing appliance, weak password test and data log, etc.
   """
 
 [[experience]]
