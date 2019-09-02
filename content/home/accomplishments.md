@@ -1,4 +1,4 @@
-+++
+<!-- +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -36,4 +36,4 @@ date_format = "Jan 2006"
   Works: 'Day Day +'—— Smart Card management based on China commercial bank.
   """
   
-+++
++++ -->
