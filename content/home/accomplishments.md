@@ -24,9 +24,11 @@ date_format = "Jan 2006"
   title = "First Price in Smart Campus application competition of CQU"
   url = ""
   certificate_url = "https://www.datacamp.com"
+  certificate_grade = "Sliver"
+  certificate_id = "123123213"
   date_start = "2015-05-10"
   date_end = ""
-  description = ""
+  description = "lalaalalalaalalalallllllllllllllllllllllllllllllllllllllllllllllllllllllllll"
 
 
   
