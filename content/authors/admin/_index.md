@@ -17,22 +17,22 @@ organizations:
 - name: School of Cyber Engineering, Xidian University, China
   url: "https://www.xidian.edu.cn"
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include information security, mobile computing and blockchain.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include information security, mobile computing and blockchain.
 
-interests:
-- Smart Contract Development
-- Consensus Mechanism
-- Data Traceability
+# interests:
+# - Smart Contract Development
+# - Consensus Mechanism
+# - Data Traceability
 
-education:
-  courses:
-  - course: MEng in Computer Technology
-    institution: Xidian University
-    year: 2018
-  - course: BSc in Information Security
-    institution: Xi’an University of Posts & Telecommunications
-    year: 2014 
+# education:
+#   courses:
+#   - course: MEng in Computer Technology
+#     institution: Xidian University
+#     year: 2018
+#   - course: BSc in Information Security
+#     institution: Xi’an University of Posts & Telecommunications
+#     year: 2014 
 
     
 
