@@ -19,13 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  #organization = "DataCamp"
-  #organization_url = "https://www.datacamp.com"
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
   title = "First Price in Smart Campus application competition of CQU"
   url = ""
-  #certificate_url = "https://www.datacamp.com"
+  certificate_url = "https://www.datacamp.com"
   date_start = "2015-05-10"
   date_end = ""
   description = ""
+
+
   
 +++
