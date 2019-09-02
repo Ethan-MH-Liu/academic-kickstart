@@ -4,7 +4,7 @@ name: Minghao Liu
 
 # Username (this should match the folder name)
 authors:
-- Minghao Liu
+- admin
 
 # Is this the primary user of the site?
 superuser: true
