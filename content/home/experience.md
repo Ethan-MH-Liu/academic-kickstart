@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company = "Front-End Developer"
   location = "Xi'an, China"
   date_start = "2017-04-28"
-  date_end = "2017-5-04"
+  date_end = "2017-05-04"
   description = """
   - Using C/S Distributed Mode design a Standard Student Information System.
   - Developed automatic page security check strategy to easily decrease user security risks, etc.
