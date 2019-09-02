@@ -18,13 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "the Ministry of Industry and Information Technology"
-  organization_url = "http://www.miit.gov.cn/"
-  title = "Information Security Engineer"
-  url = ""
-  certificate_url = "http://query.ruankao.org.cn/certificate/main"
-  certificate_id =  "17147610004"
+
 
 [[item]]
   organization = """the Ministry of Education & the Office of the Central Leading Group for Cyber Space Affairs"""
