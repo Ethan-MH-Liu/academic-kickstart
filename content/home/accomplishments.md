@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Information Security Engineer"
   url = "https://baike.baidu.com/item/信息安全工程师/9490945"
   certificate_url = "http://query.ruankao.org.cn/certificate/main"
-  certificate_id =  "17147610004"
+  #certificate_id =  "17147610004"
 
 
 [[item]]
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   organization_url = "http://www.cac.gov.cn"
   title = "the 2nd China College Student 'Internet+' Innovation & Entrepreneurship Competition"
   url = "https://cy.ncss.org.cn"
-  certificate_grade = "Sliver"
+ # certificate_grade = "Sliver"
   description = """
   Works: 'Day Day +'—— Smart Card management based on China commercial bank.
   """
