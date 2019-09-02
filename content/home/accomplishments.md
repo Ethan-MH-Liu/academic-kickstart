@@ -19,15 +19,5 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-
-[[item]]
-  organization = """the Ministry of Education & the Office of the Central Leading Group for Cyber Space Affairs"""
-  organization_url = "http://www.cac.gov.cn"
-  title = """the 2nd China College Student 'Internet+' Innovation & Entrepreneurship Competition"""
-  url = "https://cy.ncss.org.cn"
-  certificate_grade = "Sliver"
-  description = """
-  Works: 'Day Day +'—— Smart Card management based on China commercial bank.
-  """
   
 +++
