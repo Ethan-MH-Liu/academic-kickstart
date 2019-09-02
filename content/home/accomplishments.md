@@ -30,6 +30,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = "lalaalalalaalalalallllllllllllllllllllllllllllllllllllllllllllllllllllllllll"
 
+[[item]]
+  organization = "MIIT & MOHRSS"
+  organization_url = "http://www.miit.gov.cn/"
+  title = "Information Security Engineer"
+  url = "https://baike.baidu.com/item/信息安全工程师/9490945"
+  certificate_url = "http://query.ruankao.org.cn/certificate/main"
+  description = "Certificate Id: 17147610004"
 
   
 +++
