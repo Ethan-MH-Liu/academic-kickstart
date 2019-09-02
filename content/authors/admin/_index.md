@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Ethan Liu
+name: Minghao Liu
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Minghao Liu
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,6 +69,6 @@ user_groups:
 - Assistant Professor James Xi Zheng
 ---
 
-Ethan Liu is a second-year postgraduate of computer technology at the School of Cyber Engineer. His research interests include information security, blockchain and mobile computing. He is in charge of Blockchain group, which develops the smart contrast and Dapps.
+Minghao Liu is a second-year postgraduate of computer technology at the School of Cyber Engineer. His research interests include information security, blockchain and mobile computing. He is in charge of Blockchain group, which develops the smart contrast and Dapps.
 
 Great people are not born with the great, but in the process of growing up show its great.
