@@ -18,27 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Shaanxi Anbiao Electronic Technology co. LTD"
+  company = "Software Testing Engieer Intern"
+  location = "Xi;an, China"
+  date_start = "2016-01-01"
+  date_end = "2016-01-08"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  - Tested and fixed Java server related functions: signal connection, automatic closing appliance, weak password test and data log, etc
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "School Practice"
+  company = "Front-End Developer"
+  location = "Xi'an, China"
+  date_start = "2017-04-28"
+  date_end = "2017-5-04"
+  description = """
+  - Using C/S Distributed Mode design a Standard Student Information System.
+  - Developed automatic page security check strategy to easily decrease user security risks, etc.
+  """
 
+#[[experience]]
+#  title = "Pulse App"
+#  company = "iOS Independent Developer"
+#  company_url = "http://pulse.data2art.com/"
+#  location = ""
+#  date_start = "2016-05-01"
+#  date_end = "2016-11-01"
+#  description = """
+#Pulse is a clean and beautiful Metronome. Independently complete the whole process from idea, design, coding, propaganda to the shelf.
+#  """
 +++

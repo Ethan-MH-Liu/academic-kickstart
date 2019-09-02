@@ -19,33 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "the Ministry of Industry and Information Technology"
+  organization_url = "http://www.miit.gov.cn/"
+  title = "Information Security Engineer"
+  url = "https://baike.baidu.com/item/信息安全工程师/9490945"
+  certificate_url = "http://query.ruankao.org.cn/certificate/main"
+  certificate_id =  "17147610004"
+
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "the Ministry of Education & the Office of the Central Leading Group for Cyber Space Affairs "
+  organization_url = "http://www.cac.gov.cn"
+  title = "the 2nd China College Student 'Internet+' Innovation & Entrepreneurship Competition"
+  url = "https://cy.ncss.org.cn"
+  certificate_grade = "Sliver"
+ 
+   description = "Works: 'Day Day +'—— Smart Card management based on China commercial bank."
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
 +++

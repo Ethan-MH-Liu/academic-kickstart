@@ -43,7 +43,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'lmh.xdu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'lmh.xdu@gmail.com'  
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/明浩-刘-731274177/
+
+# For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -73,8 +79,7 @@ Hi there! I am Minghao(Ethan) Liu, a second-year postgraduate of computer techno
 
 I am proud for having the same major as my grandpa and my father, who set an good example for me. I become interested in computers when I was at elementary school. At that time, the computer was still a big box, which made me crazy about playing "Win depth" with my friends on Windows 98.
 
-When I was in high school, I always wonder how did the hacker breach firewall and stole the confidential docs without passwords. With this, I chose Information Security as my major. Luickly, in my senior year, I had chance to participate in the design of a bank-related App, which help me
-won a sliver award in a provincial competition.
+When I was in high school, I always wonder how did the hacker breach firewall and stole the confidential docs without passwords. With this, I chose Information Security as my major. Luickly, in my senior year, I had chance to participate in the design of a bank-related App.
 
 Because I enjoyed the process of studying the new technology, I began to research the mechanism of blockchain and develop smart contracts in college. Now my research interests include information security, blockchain and mobile computing.
 
