@@ -21,7 +21,7 @@ subtitle = ""
   description = "Python, C, Go<br>JavaScript, SQL, HTML"
 
 [[feature]]
-  icon = "user-secret-solid"
+  icon = "user-secret"
   icon_pack = "fas"
   name = "Penetration test"
   description = "Nmap, Metasploit"
