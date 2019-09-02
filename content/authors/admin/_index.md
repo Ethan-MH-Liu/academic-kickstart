@@ -69,6 +69,23 @@ user_groups:
 - Assistant Professor James Xi Zheng
 ---
 
-Minghao Liu is a second-year postgraduate of computer technology at the School of Cyber Engineer. His research interests include information security, blockchain and mobile computing. He is in charge of Blockchain group, which develops the smart contrast and Dapps.
+Hi there! I am Minghao(Ethan) Liu, a second-year postgraduate of computer technology at the School of Cyber Engineer. My Life motto is: Follow excellent, success will chase you.
 
-Great people are not born with the great, but in the process of growing up show its great.
+I am proud for having the same major as my grandpa and my father, who set an good example for me. I become interested in computers when I was at elementary school. At that time, the computer was still a big box, which made me crazy about playing "Win depth" with my friends on Windows 98.
+
+When I was in high school, I always wonder how did the hacker breach firewall and stole the confidential docs without passwords. With this, I chose Information Security as my major. Luickly, in my senior year, I had chance to participate in the design of a bank-related App, which help me
+won a sliver award in a provincial competition.
+
+Because I enjoyed the process of studying the new technology, I began to research the mechanism of blockchain and develop smart contracts in college. Now my research interests include information security, blockchain and mobile computing.
+
+Now, the wave of blockchain technology is here. In simple terms, for traditional financial, most of it is using e-money through bank or trusted third party. We design more easy, security blockchain to decrease the risks and the costs of electronic accounts.
+
+---
+
+What I am doing Now?
+
+- Writing a research paper about blockchain. It's a lot of reading and research, but it's satisfying to finish it.
+- Learning a new develop language Go/ Solidity, which help me create the new smart constracts.
+- Crafting a mysterious Decentralized APP.
+
+Update 09/02/2019
