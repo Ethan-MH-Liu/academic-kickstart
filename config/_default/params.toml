@@ -71,7 +71,7 @@ office_hours = "Monday 09:00 to 21:00 ~ Friday 09:00 ro 21:00"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "weixin", icon_pack = "fab", name = "Wechat", link = "img/wechat.jpg"},
+  {icon = "weixin (CLICK IT)", icon_pack = "fab", name = "Wechat", link = "img/wechat.jpg"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
