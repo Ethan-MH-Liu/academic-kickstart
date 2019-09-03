@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "0"
+#email = "0"
 phone = ""
 address = "Add: 266 Xinglong Section of Xifeng Road, Xi’an, Shaanxi 710126"
 
