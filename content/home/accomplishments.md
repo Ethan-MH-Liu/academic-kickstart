@@ -43,19 +43,10 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Second Scholarship of XUPT"
   url = ""
-  certificate_url = ""
+  certificate_url = "2018-09-01"
   date_start = ""
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "XUPT"
-  organization_url = ""
-  title = "Third Price in Mathematical Modeling Competition of XUPT"
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = "The year in 2017 and 2018"
 
 +++
