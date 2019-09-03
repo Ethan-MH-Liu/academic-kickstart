@@ -49,14 +49,24 @@ date_format = "Jan 2006"
   description = "Certificate Id: 17147610004"
 
   [[item]]
-  #organization = "XUPT"
-  #organization_url = ""
+  organization = "XUPT"
+  organization_url = "https://zh.wikipedia.org/wiki/西安邮电大学"
   title = "Second Scholarship of XUPT"
   url = ""
   #certificate_url = "http://query.ruankao.org.cn/certificate/main"
   date_start = "2017-01-10"
   date_end = ""
   description = ""
+
+ [[item]]
+  organization = "XUPT"
+  organization_url = "https://zh.wikipedia.org/wiki/西安邮电大学"
+  title = "Third Price in Mathematical Modeling Competition of XUPT"
+  url = ""
+  #certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = ""
+  description = "The year of 2017 & 2018"
 
 
 +++
