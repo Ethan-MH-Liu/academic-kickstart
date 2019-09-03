@@ -24,11 +24,9 @@ date_format = "Jan 2006"
   title = "First Price in Smart Campus application competition of CQU"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  certificate_grade = "Sliver"
-  certificate_id = "123123213"
   date_start = "2015-05-10"
   date_end = ""
-  description = "lalaalalalaalalalallllllllllllllllllllllllllllllllllllllllllllllllllllllllll"
+  description = "Certificate_Grade: 'Sliver'"
 
 [[item]]
   organization = "the China MIIT & MOHRSS"
@@ -36,7 +34,8 @@ date_format = "Jan 2006"
   title = "Information Security Engineer"
   url = ""
   certificate_url = "http://query.ruankao.org.cn/certificate/main"
+  date_start = "2015-05-10"
+  date_end = ""
   description = "Certificate Id: 17147610004"
 
-  
 +++
