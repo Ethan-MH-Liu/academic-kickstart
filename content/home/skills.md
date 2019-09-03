@@ -18,7 +18,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python, C, Go<br>JavaScript, SQL, HTML"
+  description = "Python, C<br>JavaScript, SQL, HTML"
 
 [[feature]]
   icon = "user-secret"
