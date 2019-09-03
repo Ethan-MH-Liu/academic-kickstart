@@ -19,22 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "DataCamp"
+  organization = "MOE of China"
   organization_url = "https://www.datacamp.com"
-  title = "First Price in Smart Campus application competition of CQU"
+  title = "Sliver Price in the 2nd China College Student 'Internet+' Innovation & Entrepreneurship Competition"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2015-05-10"
+  date_start = "2016-09-01"
   date_end = ""
-  description = "Certificate_Grade: 'Sliver'"
+  description = "Provincial-Level"
 
 [[item]]
-  organization = "the China MIIT & MOHRSS"
+  organization = "MIIT & MOHRSS of China"
   organization_url = "http://www.miit.gov.cn/"
   title = "Information Security Engineer"
   url = ""
   certificate_url = "http://query.ruankao.org.cn/certificate/main"
-  date_start = "2015-05-10"
+  date_start = "2017-01-10"
   date_end = ""
   description = "Certificate Id: 17147610004"
 
