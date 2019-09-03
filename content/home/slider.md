@@ -17,6 +17,22 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
+  title = "BOCE 2018"
+  content = "IEEE International Workshop on Blockchain-Oriented Cybersecurity Engineering"
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "city.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3 # Darken the image. Value in range 0-1.
+
+
+  cta_label = "Site Google"
+  cta_url = "https://sites.google.com/a/sheffield.ac.uk/cyberblockchain/"
+  cta_icon_pack = "fas"
+  cta_icon = "link"
+
+[[item]]
   title = "IEEE BLOCKCHAIN 2019"
   content = "The 2nd IEEE International Conference on Blockchain"
   align = "center"  # Choose `center`, `left`, or `right`.
@@ -31,23 +47,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Main Page"
-  ta_url = "http://www.blockchain-ieee.org"
-  cta_icon_pack = "fas"
-  cta_icon = "link"
-
-[[item]]
-  title = "BOCE 2018"
-  content = "IEEE International Workshop on Blockchain-Oriented Cybersecurity Engineering"
-  align = "left"  # Choose `center`, `left`, or `right`.
-
-
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "city.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3 # Darken the image. Value in range 0-1.
-
-
-  cta_label = "Site Google"
-  ta_url = "https://sites.google.com/a/sheffield.ac.uk/cyberblockchain/"
+  cta_url = "http://www.blockchain-ieee.org"
   cta_icon_pack = "fas"
   cta_icon = "link"
 
@@ -61,7 +61,7 @@ height = ""
   overlay_filter = 0.3 # Darken the image. Value in range 0-1.
 
   cta_label = "View More"
-  ta_url = "https://www.saiin.com.cn"
+  cta_url = "https://www.saiin.com.cn"
   cta_icon_pack = "fas"
   cta_icon = "user-friends"
 
