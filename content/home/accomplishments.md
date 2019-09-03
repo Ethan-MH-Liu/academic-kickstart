@@ -48,5 +48,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Certificate Id: 17147610004"
 
+  [[item]]
+  organization = "XUPT"
+  #organization_url = "http://www.miit.gov.cn/"
+  title = "Second Scholarship of XUPT"
+  url = ""
+  #certificate_url = "http://query.ruankao.org.cn/certificate/main"
+  #date_start = "2017-01-10"
+  date_end = ""
+  description = ""
+
 
 +++
