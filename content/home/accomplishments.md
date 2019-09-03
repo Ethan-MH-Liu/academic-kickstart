@@ -38,15 +38,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Certificate Id: 17147610004"
 
-[[item]]
-  organization = "MIIT & MOHRSS of China"
-  organization_url = "http://www.miit.gov.cn/"
-  title = "Information Security Engineer"
-  url = ""
-  certificate_url = "http://query.ruankao.org.cn/certificate/main"
-  date_start = "2017-09-10"
-  date_end = ""
-  description = "Certificate Id: 17147610004"
 
   [[item]]
   organization = "XUPT"
@@ -54,7 +45,7 @@ date_format = "Jan 2006"
   title = "Second Scholarship of XUPT"
   url = ""
   #certificate_url = "http://query.ruankao.org.cn/certificate/main"
-  date_start = "2017-01-10"
+  date_start = ""
   date_end = ""
   description = ""
 
@@ -64,7 +55,7 @@ date_format = "Jan 2006"
   title = "Third Price in Mathematical Modeling Competition of XUPT"
   url = ""
   #certificate_url = ""
-  date_start = "2017-05-01"
+  date_start = ""
   date_end = ""
   description = "The year of 2017 & 2018"
 
