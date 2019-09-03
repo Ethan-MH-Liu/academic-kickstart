@@ -38,15 +38,5 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Certificate Id: 17147610004"
 
-[[item]]
-  organization = "XUPT"
-  organization_url = ""
-  title = "Second Scholarship of XUPT"
-  url = ""
-  certificate_url = "2018-09-01"
-  date_start = ""
-  date_end = ""
-  description = ""
-
 
 +++
