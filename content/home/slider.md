@@ -17,21 +17,21 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "IEEE BLOCKCHAIN 2019"
-  content = "The 2nd IEEE International Conference on Blockchain"
+ # title = "IEEE BLOCKCHAIN 2019"
+ # content = "The 2nd IEEE International Conference on Blockchain"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#FFF"  # An HTML color value.
   overlay_img = "2019.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Main Page"
-  cta_url = "http://www.blockchain-ieee.org"
+  #cta_label = "Main Page"
+  #ta_url = "http://www.blockchain-ieee.org"
   cta_icon_pack = "fas"
   cta_icon = "link"
 
