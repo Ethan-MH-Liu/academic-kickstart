@@ -40,21 +40,22 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "XUPT"
-  #organization_url = ""
+  organization_url = ""
   title = "Second Scholarship of XUPT"
-  #url = ""
-  #certificate_url = ""
+  url = ""
+  certificate_url = ""
   date_start = ""
   date_end = ""
   description = ""
 
 [[item]]
   organization = "XUPT"
-  #organization_url = ""
+  organization_url = ""
   title = "Third Price in Mathematical Modeling Competition of XUPT"
-  #url = ""
-  #certificate_url = ""
+  url = ""
+  certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "The year in 2017 & 2018"
+  description = "The year in 2017 and 2018"
+
 +++
