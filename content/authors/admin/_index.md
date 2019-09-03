@@ -25,15 +25,6 @@ organizations:
 # - Consensus Mechanism
 # - Data Traceability
 
-# education:
-#   courses:
-#   - course: MEng in Computer Technology
-#     institution: Xidian University
-#     year: 2018
-#   - course: BSc in Information Security
-#     institution: Xi’an University of Posts & Telecommunications
-#     year: 2014 
-
     
 
 # Social/Academic Networking
@@ -43,7 +34,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'lmh.xdu@gmail.com'  
+  link: "mailto:lmh.xdu@gmail.com"  
 
 - icon: linkedin-in
   icon_pack: fab
