@@ -1,6 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "Awards"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
@@ -38,4 +38,23 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Certificate Id: 17147610004"
 
+[[item]]
+  organization = "XUPT"
+  #organization_url = ""
+  title = "Second Scholarship of XUPT"
+  #url = ""
+  #certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "XUPT"
+  #organization_url = ""
+  title = "Third Price in Mathematical Modeling Competition of XUPT"
+  #url = ""
+  #certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "The year in 2017 & 2018"
 +++
