@@ -63,7 +63,7 @@ phone = ""
 address = "Add: 266 Xinglong Section of Xifeng Road, Xi’an, Shaanxi 710126"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "Monday 09:00 to 21:00 ~ Friday 09:00 ro 21:00"
+office_hours = "Monday 09:00 to 21:00 ~ Friday 09:00 to 21:00"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
