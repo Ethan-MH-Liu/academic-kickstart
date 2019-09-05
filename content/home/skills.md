@@ -30,7 +30,7 @@ subtitle = ""
   icon = "coins"
   icon_pack = "fas"
   name = "Blockchain"
-  description = "Smart Contract, Consensus Mechanism"
+  description = "Smart Contract"
 
 [[feature]]
   icon = "tools"
