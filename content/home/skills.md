@@ -18,7 +18,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python, C<br>JavaScript, SQL, HTML"
+  description = "Python, C"
 
 [[feature]]
   icon = "user-secret"
@@ -49,6 +49,6 @@ subtitle = ""
   icon = "ubuntu"
   icon_pack = "fab"
   name = "Liunx"
-  description = "Ubuntu, Kali"
+  description = "Kali"
 
 +++
