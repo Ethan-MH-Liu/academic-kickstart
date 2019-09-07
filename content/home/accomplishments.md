@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "MOE of China"
-  organization_url = "https://www.datacamp.com"
+  organization_url = "https://cy.ncss.org.cn/"
   title = "Sliver Price in the 2nd China College Student 'Internet+' Innovation & Entrepreneurship Competition"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = "https://cy.ncss.org.cn/"
   date_start = "2016-09-01"
   date_end = ""
   description = "Provincial-Level"
