@@ -10,5 +10,5 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header: What is Tendermint ?
   caption: "Byzantine-fault tolerant state machine replication"
-  image: "tendermint.png"
+  image: "tendermint.png "
 ---
