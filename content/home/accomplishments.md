@@ -39,12 +39,20 @@ date_format = "Jan 2006"
   description = "Certificate Id: 17147610004"
 
 
+[[item]]
+  organization = "Xidian University"
+  organization_url = "https://zh.wikipedia.org/wiki/西安邮电大学"
+  title = "Graduate students second-class Scholarship of XIDIAN University"
+  url = ""
+  date_start = "2019-10-10"
+  date_end = ""
+  description = ""
+
   [[item]]
   organization = "XUPT"
   organization_url = "https://zh.wikipedia.org/wiki/西安邮电大学"
-  title = "Second Scholarship of XUPT"
+  title = "Second-class Scholarship of XUPT"
   url = ""
-  #certificate_url = "http://query.ruankao.org.cn/certificate/main"
   date_start = "2017-01-10"
   date_end = ""
   description = ""

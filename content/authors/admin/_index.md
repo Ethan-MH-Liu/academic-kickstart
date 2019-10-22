@@ -84,4 +84,4 @@ What I am doing Now?
 - Doing research on Distributed Machine Learning based on Ethereum blockchain.
 - Learning a new develop language Go/ Solidity, which help me create the new smart constracts.
 
-Update 09/02/2019
+Update 10/22/2019
