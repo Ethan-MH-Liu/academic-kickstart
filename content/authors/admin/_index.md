@@ -81,7 +81,7 @@ Now, the wave of blockchain technology is here. In simple terms, for traditional
 What I am doing Now?
 
 - Writing a research paper about blockchain. It's a lot of reading and research, but it's satisfying to finish it.
+- Doing research on Distributed Machine Learning based on Ethereum blockchain.
 - Learning a new develop language Go/ Solidity, which help me create the new smart constracts.
-- Crafting a mysterious Decentralized APP.
 
 Update 09/02/2019
