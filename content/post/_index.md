@@ -1,5 +1,5 @@
 ---
-title: Tendermint
+title: "Tendermint"
 
 # View.
 #   1 = List
@@ -8,7 +8,7 @@ title: Tendermint
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header: What is Tendermint ?
+header: "What is Tendermint ?"
   caption: "Byzantine-fault tolerant state machine replication"
   image: "tendermint.png "
 ---

@@ -4,7 +4,7 @@
 
 widget = "posts"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Order that this section will appear.
+active = true  # Order that this section will appear.
 
 title = "Recent Posts"
 subtitle = ""
